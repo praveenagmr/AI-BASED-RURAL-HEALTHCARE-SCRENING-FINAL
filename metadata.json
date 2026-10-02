@@ -1,0 +1,6 @@
+{
+  "name": "AI Based Rural Healthcare Screening - Varur Village",
+  "description": "AI-powered preliminary rural health screening and triage system for Varur village, Karnataka, featuring trilingual voice assistance (Kannada, Hindi, English), 15 household health directory, nearest medicals with home medicine delivery, and emergency hospital routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
